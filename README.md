@@ -67,5 +67,5 @@ This workshop is broken into multiple labs. You must complete each Lab before pr
 8. Visit [Simple Notification Service console,](https://console.aws.amazon.com/sns/home) select Topics. Select the created topic.  Select the Action and click **Delete topics**. Next select Subscriptions. Select the created subscription. Select the Action and click **Delete subscriptions**.
 
 ## License
-Recent Changes done by Irfan S.
+##Recent Changes done by Irfan S.
 This library is licensed under the Apache 2.0 License. 
